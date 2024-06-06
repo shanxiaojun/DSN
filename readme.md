@@ -1,4 +1,6 @@
-# Enhancing Knowledge Transfer for Task Incremental  Learning with Data-free Subnetwork
+# (NeurIPS 2023) Enhancing Knowledge Transfer for Task Incremental  Learning with Data-free Subnetwork
+
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d7b3cef7c31b94a4a533db83d01a8882-Abstract-Conference.html)
 
 ## Abstract
 
